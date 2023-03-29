@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Edilson",
+    "last_name": "Alcantara",
+    "birth_date": "05/08/1990",
+    "sex": "male",
+    "telephone": "8095552222",
+    "cellphone": "8096621314",
+    "Address": "Anything"
+  },
+  {
+    "id": 2,
+    "name": "Rafael",
+    "last_name": "Alcantara",
+    "birth_date": "05/08/1990",
+    "sex": "male",
+    "telephone": "8095552222",
+    "cellphone": "8096621314",
+    "Address": "Anything"
+  },
+  {
+    "id": 3,
+    "name": "Juan",
+    "last_name": "Alcantara",
+    "birth_date": "05/08/1990",
+    "sex": "male",
+    "telephone": "8095552222",
+    "cellphone": "8096621314",
+    "Address": "Anything"
+  },
+  {
+    "id": 4,
+    "name": "Jose",
+    "last_name": "Alcantara",
+    "birth_date": "05/08/1990",
+    "sex": "male",
+    "telephone": "8095552222",
+    "cellphone": "8096621314",
+    "Address": "Anything"
+  }
+]

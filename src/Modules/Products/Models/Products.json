@@ -1,0 +1,11 @@
+{
+  "id": "0",
+  "description": "HELADO BON ",
+  "price": "100",
+  "cost": "50",
+  "taxes_percent": "50",
+  "taxes_include": "50",
+  "state": true,
+  "existence": "250",
+  "unit_id": "1"
+}

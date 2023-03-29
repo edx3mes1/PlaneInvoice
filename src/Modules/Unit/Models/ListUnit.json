@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "description": "Unidad",
+    "state": true
+  },
+  {
+    "id": "2",
+    "description": "Docena",
+    "state": true
+  }
+]

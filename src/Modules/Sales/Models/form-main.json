@@ -1,0 +1,20 @@
+{
+  "id": null,
+  "invoice_type_id": 0,
+  "pay_type": 0,
+  "taxes_included": 0,
+  "employee_id": 0,
+  "customer_id": 0,
+  "current_date": "",
+  "current_time": "",
+  "detail": [],
+  "box_id": 0,
+  "currency_id": 0,
+  "point_of_sales_id": 0,
+  "note": "",
+  "total": 0,
+  "sub_total": 0,
+  "void_date": "",
+  "void_status": "false",
+  "void_note": ""
+}

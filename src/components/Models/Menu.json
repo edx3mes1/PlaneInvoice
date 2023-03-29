@@ -1,0 +1,12 @@
+[
+  { "id": 1, "url": "/Sales", "nameOption": "Sales" },
+  { "id": 2, "url": "/Sales", "nameOption": "Purchases" },
+  { "id": 3, "url": "/Sales", "nameOption": "Inventory" },
+  { "id": 4, "url": "/Sales", "nameOption": "Customers" },
+  { "id": 5, "url": "/Sales", "nameOption": "Providers" },
+  { "id": 6, "url": "/Sales", "nameOption": "Sales" },
+  { "id": 7, "url": "/Sales", "nameOption": "Purchases" },
+  { "id": 8, "url": "/Sales", "nameOption": "Inventory" },
+  { "id": 9, "url": "/Sales", "nameOption": "Customers" },
+  { "id": 10, "url": "/Sales", "nameOption": "Providers" }
+]
